@@ -1,4 +1,4 @@
-package com.example.camera_kazakov;
+package com.example.camera_osennikov;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -11,9 +11,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.camera_kazakov.domains.adapters.MenuAdapter;
-import com.example.camera_kazakov.domains.callbacks.OnTabClickListner;
-import com.example.camera_kazakov.domains.models.MenuItem;
+import com.example.camera_osennikov.domains.adapters.MenuAdapter;
+import com.example.camera_osennikov.domains.callbacks.OnTabClickListner;
+import com.example.camera_osennikov.domains.models.MenuItem;
 
 import java.util.ArrayList;
 import java.util.List;

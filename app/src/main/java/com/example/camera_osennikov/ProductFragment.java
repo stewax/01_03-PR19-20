@@ -1,4 +1,4 @@
-package com.example.camera_kazakov;
+package com.example.camera_osennikov;
 
 import static android.app.Activity.RESULT_OK;
 
@@ -22,8 +22,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.camera_kazakov.presentations.BottomSheetHepler;
-import com.example.camera_kazakov.presentations.MainActivity;
+import com.example.camera_osennikov.presentations.BottomSheetHepler;
+import com.example.camera_osennikov.presentations.MainActivity;
 import com.example.network.datas.product.ProductCreate;
 import com.example.network.domains.callbacks.MyResponseCallback;
 import com.example.network.domains.models.Product;

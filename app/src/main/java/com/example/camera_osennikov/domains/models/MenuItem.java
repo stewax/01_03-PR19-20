@@ -1,4 +1,4 @@
-package com.example.camera_kazakov.domains.models;
+package com.example.camera_osennikov.domains.models;
 
 public class MenuItem {
     public String Title;

@@ -1,4 +1,4 @@
-package com.example.camera_kazakov.presentations;
+package com.example.camera_osennikov.presentations;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -17,8 +17,8 @@ import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.FileProvider;
 
-import com.example.camera_kazakov.ProductsFragment;
-import com.example.camera_kazakov.R;
+import com.example.camera_osennikov.ProductsFragment;
+import com.example.camera_osennikov.R;
 import com.example.network.datas.product.ProductCreate;
 import com.example.network.domains.callbacks.MyResponseCallback;
 import com.example.network.domains.models.Product;

@@ -1,4 +1,4 @@
-package com.example.camera_kazakov.presentations;
+package com.example.camera_osennikov.presentations;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,11 +14,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.camera_kazakov.NavigationMenu;
-import com.example.camera_kazakov.ProductFragment;
-import com.example.camera_kazakov.ProductsFragment;
-import com.example.camera_kazakov.R;
-import com.example.camera_kazakov.domains.callbacks.OnTabClickListner;
+import com.example.camera_osennikov.NavigationMenu;
+import com.example.camera_osennikov.ProductFragment;
+import com.example.camera_osennikov.ProductsFragment;
+import com.example.camera_osennikov.R;
+import com.example.camera_osennikov.domains.callbacks.OnTabClickListner;
 
 public class MainActivity extends AppCompatActivity {
 

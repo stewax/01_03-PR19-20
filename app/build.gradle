@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.camera_kazakov'
+    namespace 'com.example.camera_osennikov'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.example.camera_kazakov"
+        applicationId "com.example.camera_osennikov"
         minSdk 29
         targetSdk 36
         versionCode 1

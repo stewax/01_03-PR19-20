@@ -1,4 +1,4 @@
-package com.example.camera_kazakov.domains.managers;
+package com.example.camera_osennikov.domains.managers;
 
 import android.Manifest;
 import android.app.Activity;

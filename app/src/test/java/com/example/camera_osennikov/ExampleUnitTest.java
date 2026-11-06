@@ -1,4 +1,4 @@
-package com.example.camera_kazakov;
+package com.example.camera_osennikov;
 
 import org.junit.Test;
 

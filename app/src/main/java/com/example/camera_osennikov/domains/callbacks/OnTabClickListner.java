@@ -1,4 +1,4 @@
-package com.example.camera_kazakov.domains.callbacks;
+package com.example.camera_osennikov.domains.callbacks;
 
 public interface OnTabClickListner {
     void onTabClick(Integer position);

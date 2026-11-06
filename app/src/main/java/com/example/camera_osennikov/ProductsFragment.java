@@ -1,6 +1,6 @@
-package com.example.camera_kazakov;
+package com.example.camera_osennikov;
 
-import static com.example.camera_kazakov.presentations.MainActivity.TOKEN;
+import static com.example.camera_osennikov.presentations.MainActivity.TOKEN;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -16,9 +16,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.camera_kazakov.domains.callbacks.OnTabClickListner;
-import com.example.camera_kazakov.domains.managers.PermissionManager;
-import com.example.camera_kazakov.presentations.MainActivity;
+import com.example.camera_osennikov.domains.callbacks.OnTabClickListner;
+import com.example.camera_osennikov.domains.managers.PermissionManager;
+import com.example.camera_osennikov.presentations.MainActivity;
 import com.example.network.datas.product.ProductByUser;
 import com.example.network.datas.product.ProductDelete;
 import com.example.network.domains.callbacks.MyResponseCallback;
